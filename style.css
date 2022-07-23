@@ -1,0 +1,21 @@
+body {
+    background-color:lightpink;
+    color: blueviolet;
+}
+.heading{
+    width: 50%;
+    font-size: 30px;
+}
+#Camera{
+    border:2px dashed darkgoldenrod;
+    width: 350px;
+    height: 300px;
+}
+.name_of_object{
+    color:crimson;
+    font-family: 'Merriweather', cursive;
+    font-size: 28px;
+}
+#FRWP{
+    color: darkgoldenrod;
+}
